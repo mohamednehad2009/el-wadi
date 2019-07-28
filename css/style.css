@@ -9879,6 +9879,8 @@ textarea.form-control {
       border-bottom: 3px solid orange;
       transition: all 0.5s;
     }
-    
+    .home-slider .owl-stage-outer{
+      pointer-events: none;
+    }
 
  

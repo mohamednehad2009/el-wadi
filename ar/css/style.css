@@ -9882,4 +9882,6 @@ textarea.form-control {
     }
     
 
- 
+     .home-slider .owl-stage-outer{
+      pointer-events: none;
+    }
